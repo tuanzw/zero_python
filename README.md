@@ -7,3 +7,7 @@ This session covers:
 This session covers:
   - Functions/Parameters/Arguments
   - Control flows (If statement/For;While loops
+- [Class](./class.ipynb)
+This session covers:
+  - Class overal/class & instance variables/class & static methods
+  - Inheritance/Encapsulation/Polymorphism/Abstract
