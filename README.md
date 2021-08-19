@@ -11,3 +11,7 @@ This session covers:
 This session covers:
   - Class overal/class & instance variables/class & static methods
   - Inheritance/Encapsulation/Polymorphism/Abstract
+- [Closure](./closure.ipynb)
+This session covers:
+  - Closure
+  - How to apply closure
