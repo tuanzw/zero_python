@@ -15,3 +15,7 @@ This session covers:
 This session covers:
   - Closure
   - How to apply closure
+- [Decorator](./decorator.ipynb)
+This session covers:
+  - Function decorator
+  - Class decorator
